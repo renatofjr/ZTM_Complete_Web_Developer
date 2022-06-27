@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/static/css/main.32bd4936.css",
+    "main.js": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/static/js/main.39b5fb74.js",
+    "static/js/787.32032a02.chunk.js": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/index.html",
+    "main.32bd4936.css.map": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/static/css/main.32bd4936.css.map",
+    "main.39b5fb74.js.map": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/static/js/main.39b5fb74.js.map",
+    "787.32032a02.chunk.js.map": "/ZTM_Complete_Web_Developer/React/Cap19/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bd4936.css",
+    "static/js/main.39b5fb74.js"
+  ]
+}
